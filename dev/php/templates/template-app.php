@@ -24,7 +24,7 @@ Template Name: App page
 
 
 
-					<img src="<?php echo get_stylesheet_directory_uri(); ?>/img/qr_code.png" />
+					<img width="300" align="center" src="<?php echo get_stylesheet_directory_uri(); ?>/img/klus_koorts_qr_code.jpg" />
 				</article>
 			</div>
 			</div>
